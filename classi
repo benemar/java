@@ -1,1 +1,4 @@
-Le classi in java
+Definire una classe è molto semplice, già nelle passate lezioni abbiamo fatto diversi esempi ed abbiamo accennato molte delle cose che qui riporteremo (per avere una visione complessiva, sintetica e completa del concetto e dell'applicabilità delle classi).
+Allora, come si definisce una classe?
+Semplicemente utilizzando la parola class seguita dal nome che vogliamo dare alla classe stessa.
+In genere (per default) le classi ereditano tutte dalla classe Object, qualora si volesse indicare una precisa superclasse dalla quale ereditare, bisognerebbe (come detto, anche questo, in precedenti lezioni) aggiungere la parola extends seguita dal nome della superclasse.
